@@ -44,5 +44,5 @@ def partition(datavalues, first, last):
 
     return upper
     
-quickSort(items, 0, len(items) - 1)
-print(items)
+# quickSort(items, 0, len(items) - 1)
+# print(items)
